@@ -1,3 +1,4 @@
+@@ -0,0 +1,171 @@
 from PyQt5.QtCore import Qt
 from PyQt5.QtWidgets import (QApplication, QWidget, QHBoxLayout, QVBoxLayout,
                              QLabel, QButtonGroup, QRadioButton, QPushButton, QGroupBox)
